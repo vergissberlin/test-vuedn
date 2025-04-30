@@ -8,6 +8,8 @@ date: 2023-04-17
 
 [About](https://en.wikipedia.org/wiki/Baba_Yetu)
 
+![This is good](/media/barcamp_orlando.jpg "I like ithe image")
+
 ## Links
 
 [Youtube](https://youtu.be/IJiHDmyhE1A)
@@ -55,9 +57,6 @@ On Earth as it is in Heaven.<br>
 
 ## Related performances
 
-- (Orchestra) Baba Yetu Live | Cadogan Hall 2016 - [Youtube](https://youtu.be/noneMROp_E8)
-
-- Baba Yetu - Stellenbosch University Choir - [Youtube](https://youtu.be/PCa8RxaOPW8)
-
-- Baba Yetu (By Christopher Tin) Lord's Prayer in Swahili - Alex Boyé, BYU Men's Chorus/ Philharmonic - [Youtube](https://youtu.be/vsINANZ6Riw)
-
+* (Orchestra) Baba Yetu Live | Cadogan Hall 2016 - [Youtube](https://youtu.be/noneMROp_E8)
+* Baba Yetu - Stellenbosch University Choir - [Youtube](https://youtu.be/PCa8RxaOPW8)
+* Baba Yetu (By Christopher Tin) Lord's Prayer in Swahili - Alex Boyé, BYU Men's Chorus/ Philharmonic - [Youtube](https://youtu.be/vsINANZ6Riw)
